@@ -1,0 +1,6 @@
+# 【毕设】jspSSM259的固定资产管理系统vue毕业设计
+
+免费安装<br>技术实现<br>开发语言:example.com:example.com:B/example.com:example.com:example.com:1万左右.<br>功能实现<br>详细功能请直接下载视频观看。以下信息为大体的功能介绍:<br>通过系统需求分析,本文主要介绍系统后台功能<br>本系统开发完成后，主要实现如下目标：<br>随着互联网时代的到来，同时计算机网络技术高速发展，网络管理运用也变得越来越广泛。因此，建立一个B/S结构的固定资产管理系统，会使固定资产管理系统工作系统化、规范化，也会提高固定资产管理系统平台形象，提高管理效率。<br>本固定资产管理系统是针对目前固定资产管理系统的实际需求，从实际工作出发，对过去的固定资产管理系统存在的问题进行分析，结合计算机系统的结构、概念、模型、原理、方法，在计算机各种优势的情况下，采用目前的B/S结构、java技术MySQL数据库设计并实现的 。本固定资产管理系统主要包括登录管理员模块如下：首页、个人中心、用户管理、物品类型管理、资产设备管理、资产入库管理、设备申请管理、销毁信息管理、资产报表管理、聊天信息管理、聊天回复管理，用户模块：首页、个人中心、资产设备管理、资产入库管理、设备申请管理、销毁信息管理、资产报表管理、聊天信息管理、聊天回复管理等多个模块。它帮助固定资产管理系统实现了信息化、网络化，通过测试，实现了系统设计目标，相比传统的管理模式，本系统合理的利用了网络数据资源，有效的减少了固定资产管理系统的经济投入，大大提高了工作人员的效率。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/IVFOd" style="color: red;">https://mega-file.org/IVFOd</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
